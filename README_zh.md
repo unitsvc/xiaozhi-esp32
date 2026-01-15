@@ -121,6 +121,7 @@ v1 的稳定版本为 1.9.2，可以通过 `git checkout v1` 来切换到 v1 版
 
 ### 开发者文档
 
+- [📖 项目架构与技术详解](docs/architecture-zh.md) - 完整的项目架构说明和技术知识梳理
 - [自定义开发板指南](docs/custom-board.md) - 学习如何为小智 AI 创建自定义开发板
 - [MCP 协议物联网控制用法说明](docs/mcp-usage.md) - 了解如何通过 MCP 协议控制物联网设备
 - [MCP 协议交互流程](docs/mcp-protocol.md) - 设备端 MCP 协议的实现方式
