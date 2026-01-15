@@ -1,6 +1,6 @@
 # 小智 ESP32 项目架构文档
 
-[English](architecture-en.md) | 中文
+中文
 
 ## 目录
 
